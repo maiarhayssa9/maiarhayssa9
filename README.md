@@ -1,9 +1,11 @@
-## olá seja bem vindo ao meu perfil🎠🐾
-me chamo Rhayssa Maia.
-sou estudante do alura,meu ultimo projeto foi o jogo pong.
-email para contato:@rhayssa.maia.oliveira@escola.pr.gov.br
+## Olá, seja bem vindo ao meu Perfil.🎠🐾
+- Me chamo Rhayssa Maia.
+- Sou estudante do Alura, meu ultimo projeto foi o Jogo Pong.
+### Email para contato:
+- rhayssa.maia.oliveira@escola.pr.gov.br
 
 
+![](https://i.pinimg.com/236x/e9/0f/9a/e90f9a8e55dbd8726c4bcf0596fc3015.jpg)
 <!--
 **maiarhayssa9/maiarhayssa9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
