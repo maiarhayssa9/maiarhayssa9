@@ -1,4 +1,4 @@
-## olá seja bem vindo ao meu perfil🎠:p
+## olá seja bem vindo ao meu perfil🎠🐾
 me chamo Rhayssa Maia.
 sou estudante do alura,meu ultimo projeto foi o jogo pong.
 email para contato:@rhayssa.maia.oliveira@escola.pr.gov.br
